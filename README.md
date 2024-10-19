@@ -2,6 +2,15 @@
 
 This Terraform configuration deploys a basic AWS infrastructure including a VPC, subnets, an internet gateway, route tables, a security group, network interfaces, an Elastic IP, and an EC2 instance with a simple web server. It is structured for a production environment in the AWS region `eu-west-2`.
 
+<p>
+<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/mehedisardar/terraform-free-tier-aws" />
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/mehedisardar/terraform-free-tier-aws" />
+<img alt="" src="https://img.shields.io/github/repo-size/mehedisardar/terraform-free-tier-aws" />
+<img alt="GitHub Issues" src="https://img.shields.io/github/issues/mehedisardar/terraform-free-tier-aws" />
+<img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/mehedisardar/terraform-free-tier-aws" />
+<img alt="Github License" src="https://img.shields.io/github/license/mehedisardar/terraform-free-tier-aws" />
+</p>
+
 ## Prerequisites
 
 Before you begin, ensure you have the following:
